@@ -27,9 +27,9 @@ input {
   font-family: 'Montserrat', sans-serif;
 }
 
-/* reusable code here */
+
 :root {
-  /* --theme: #2978ff; */
+ 
   --primary-green: #069067;
   --primary-purple: #6842EF;
   --primary-purple-shade: #8161f4;
@@ -43,7 +43,7 @@ input {
   margin: 0 auto;
 }
 
-/* char styling  */
+
 .chart {
   width: 95vw;
   margin-block: 2rem;
