@@ -1,0 +1,23 @@
+{
+  "name": "reactapp2",
+  "version": "1.0.0",
+  "description": "Working on the React app as a learning path",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasabee/ReactApp2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasabee/ReactApp2/issues"
+  },
+  "homepage": "https://github.com/sasabee/ReactApp2#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
